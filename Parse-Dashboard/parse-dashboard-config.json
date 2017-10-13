@@ -4,5 +4,6 @@
     "appId": "recipe-id",
     "masterKey": "recipe-master-key",
     "appName": "Recipe",
+    "port": 4040
   }]
 }
