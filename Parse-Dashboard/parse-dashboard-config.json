@@ -4,7 +4,5 @@
     "appId": "recipe-id",
     "masterKey": "recipe-master-key",
     "appName": "Recipe",
-    "iconName": ""
-  }],
-  "iconsFolder": "icons"
+  }]
 }
