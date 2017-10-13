@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://cp-recipe.herokuapp.com/parse",
+    "appId": "recipe-id",
+    "masterKey": "recipe-master-key",
+    "appName": "Recipe",
     "iconName": ""
   }],
   "iconsFolder": "icons"
