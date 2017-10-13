@@ -5,5 +5,11 @@
     "masterKey": "recipe-master-key",
     "appName": "Recipe",
     "port": 4040
-  }]
+  }],
+   "users": [
+    {
+      "user":"recipeteam",
+      "pass":"recipe1337"
+    }],
+   "useEncryptedPasswords":false
 }
