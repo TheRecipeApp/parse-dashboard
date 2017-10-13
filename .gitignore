@@ -1,12 +1,8 @@
 .DS_Store
-node_modules/
-bundles/
 PIG/bundles/
-Parse-Dashboard/public/bundles/
-Parse-Dashboard/parse-dashboard-config.json
 npm-debug.log
 .eslintcache
-
+node_modules
 // vim .swp
 *.swp
 .env
